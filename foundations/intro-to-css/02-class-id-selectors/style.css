@@ -1,0 +1,23 @@
+.title {
+}
+
+.odd,
+.odd-third {
+  background-color: pink;
+  font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.odd-third {
+  font-size: 24px;
+}
+
+#text-two {
+  color: blue;
+  font-size: 36px;
+}
+
+#text-four {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
